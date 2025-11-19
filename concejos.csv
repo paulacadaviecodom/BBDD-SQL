@@ -1,79 +1,79 @@
-﻿id_concejo,nombre_concejo,poblacion,zona,paisaje_protegido,distancia_a_corvera  
-1,Allande,1615,Occidente,Si,60  
-2,Amieva,603,Oriente,Si,80  
-3,Avilés,75518,Centro,No,8  
-4,Belmonte de Miranda,1437,Centro,Si,45  
-5,Bimenes,1679,Centro,No,15  
-6,Boal,1482,Occidente,Si,70  
-7,Cabrales,5839,Oriente,Si,90  
-8,Cabranes,1057,Oriente,No,25  
-9,Candamo,1969,Centro,No,20  
-10,Cangas del Narcea,11596,Suroccidente,Si,90  
-11,Caravia,469,Oriente,No,85  
-12,Carreño,10177,Centro,No,12  
-13,Caso,?,Centro-Montaña,Si,70  
-14,Castrillón,22103,Centro,No,10  
-15,Castropol,3342,Occidente,No,70  
-16,Coaña,?,Occidente,No,75  
-17,Colunga,3205,Oriente,Si,60  
-18,Corvera de Asturias,15612,Centro,No,0  
-19,Cudillero,4922,Occidente,No,30  
-20,Degaña,881,Occidente,Si,95  
-21,El Franco,3760,Occidente,No,65  
-22,Gijón,268313,Centro-costero,No,15  
-23,Gozón,10470,Centro-costero,Si,20  
-24,Grado,9616,Centro,No,25  
-25,Grandas de Salime,815,Occidente,Si,90  
-26,Ibias,1207,Suroccidente,Si,95  
-27,Illano,?,Occidente,No,85  
-28,Illas,1062,Centro-costero,No,10  
-29,Langreo,37978,Centro,No,20  
-30,Laviana,12355,Centro-montaña,No,30  
-31,Lena,10312,Centro,No,35  
-32,Llanera,13948,Centro,No,18  
-33,Llanes,13524,Oriente-costero,Si,55  
-34,Mieres,36195,Centro,No,25  
-35,Morcín,2555,Centro,No,30  
-36,Muros de Nalón,1887,Occidente-costero,No,40  
-37,Nava,?,Oriente,No,45  
-38,Navia,8322,Occidente-costero,No,75  
-39,Noreña,?,Centro,No,15  
-40,Onís,734,Oriente,Si,65  
-41,Oviedo,217584,Centro,No,10  
-42,Parres,5315,Oriente,No,60  
-43,Peñamellera Alta,?,Oriente,Si,70  
-44,Peñamellera Baja,1227,Oriente,Si,65  
-45,Pesoz,148,Occidente,No,90  
-46,Piloña,6875,Oriente,Si,70  
-47,Ponga,572,Oriente,Si,75  
-48,Pravia,7984,Centro,No,25  
-49,Proaza,707,Centro-montaña,Si,40  
-50,Quirós,1187,Centro-montaña,Si,50  
-51,Las Regueras,1839,Centro,No,20  
-52,Ribadedeva,1741,Oriente-costero,Si,60  
-53,Ribadesella,5688,Oriente-costero,Si,55  
-54,Ribera de Arriba,1837,Centro,No,22  
-55,Riosa,1848,Centro,No,30  
-56,Salas,4900,Occidente,No,40  
-57,San Martín de Oscos,376,Occidente,No,85  
-58,San Martín del Rey Aurelio,15431,Centro,No,20  
-59,San Tirso de Abres,421,Occidente,No,85  
-60,Santa Eulalia de Oscos,449,Occidente,No,85  
-61,Santo Adriano,273,Centro,No,25  
-62,Sariego,1254,Centro,No,20  
-63,Siero,52194,Centro,No,18  
-64,Sobrescobio,814,Oriente-montaña,Si,60  
-65,Somiedo,?,Occidente-montaña,Si,60  
-66,Soto del Barco,3800,Occidente-costero,No,35  
-67,Tapia de Casariego,3726,Occidente-costero,No,75  
-68,Taramundi,602,Occidente,No,85  
-69,Teverga,1554,Centro-montaña,Si,50  
-70,Tineo,8769,Occidente,No,50  
-71,Valdés,11394,Occidente-costero,No,60  
-72,Vegadeo,3926,Occidente,No,70  
-73,Villanueva de Oscos,272,Occidente,No,85  
-74,Villaviciosa,15000,Oriente-costero,Si,45  
-75,Villayón,1180,Occidente,No,80  
-76,Yernes y Tameza,136,Centro-montaña,No,45  
-77,Illano,?,Occidente,No,85  
-78,Ibias,1207,Suroccidente,Si,95  
+﻿Concejo;Población;Zona;Paisaje_protegido
+Allande;1615;Occidente;Si
+Amieva;603;Oriente;Si
+Avilés;75518;Centro;No
+Belmonte de Miranda;1437;Centro;Si
+Bimenes;1679;Centro;No
+Boal;1482;Occidente;Si
+Cabrales;5839;Oriente;Si
+Cabranes;1057;Oriente;No
+Candamo;1969;Centro;No
+Cangas del Narcea;11596;Suroccidente;Si
+Caravia;469;Oriente;No
+Carreño;10177;Centro;No
+Caso;?;Centro-Montaña;Si
+Castrillón;22103;Centro;No
+Castropol;3342;Occidente;No
+Coaña;?;Occidente;No
+Colunga;3205;Oriente;Si
+Corvera de Asturias;15612;Centro;No
+Cudillero;4922;Occidente;No
+Degaña;881;Occidente;Si
+El Franco;3760;Occidente;No
+Gijón;268313;Centro-costero;No
+Gozón;10470;Centro-costero;Si
+Grado;9616;Centro;No
+Grandas de Salime;815;Occidente;Si
+Ibias;1207;Suroccidente;Si
+Illano;?;Occidente;No
+Illas;1062;Centro-costero;No
+Langreo;37978;Centro;No
+Laviana;12355;Centro-montaña;No
+Lena;10312;Centro;No
+Llanera;13948;Centro;No
+Llanes;13524;Oriente-costero;Si
+Mieres;36195;Centro;No
+Morcín;2555;Centro;No
+Muros de Nalón;1887;Occidente-costero;No
+Nava;?;Oriente;No
+Navia;8322;Occidente-costero;No
+Noreña;?;Centro;No
+Onís;734;Oriente;Si
+Oviedo;217584;Centro;No
+Parres;5315;Oriente;No
+Peñamellera Alta;?;Oriente;Si
+Peñamellera Baja;1227;Oriente;Si
+Pesoz;148;Occidente;No
+Piloña;6875;Oriente;Si
+Ponga;572;Oriente;Si
+Pravia;7984;Centro;No
+Proaza;707;Centro-montaña;Si
+Quirós;1187;Centro-montaña;Si
+Las Regueras;1839;Centro;No
+Ribadedeva;1741;Oriente-costero;Si
+Ribadesella;5688;Oriente-costero;Si
+Ribera de Arriba;1837;Centro;No
+Riosa;1848;Centro;No
+Salas;4900;Occidente;No
+San Martín de Oscos;376;Occidente;No
+San Martín del Rey Aurelio;15431;Centro;No
+San Tirso de Abres;421;Occidente;No
+Santa Eulalia de Oscos;449;Occidente;No
+Santo Adriano;273;Centro;No
+Sariego;1254;Centro;No
+Siero;52194;Centro;No
+Sobrescobio;814;Oriente-montaña;Si
+Somiedo;?;Occidente-montaña;Si
+Soto del Barco;3800;Occidente-costero;No
+Tapia de Casariego;3726;Occidente-costero;No
+Taramundi;602;Occidente;No
+Teverga;1554;Centro-montaña;Si
+Tineo;8769;Occidente;No
+Valdés;11394;Occidente-costero;No
+Vegadeo;3926;Occidente;No
+Villanueva de Oscos;272;Occidente;No
+Villaviciosa;15000;Oriente-costero;Si
+Villayón;1180;Occidente;No
+Yernes y Tameza;136;Centro-montaña;No
+Illano;?;Occidente;No
+Ibias;1207;Suroccidente;Si
